@@ -1,9 +1,9 @@
-p = "g"
+char = raw_input("")
 
-if p in ('a','e','i','o','u'):
+if char in ('a','e','i','o','u'):
 
-    print("p is a vowel")
+    print("char is a vowel")
 
 else:
 
-    print("p is a constant")
+    print("char is a constant")
