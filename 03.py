@@ -1,4 +1,5 @@
 char = raw_input("")
+char = char.lower()
 
 if char in ('a','e','i','o','u'):
 
